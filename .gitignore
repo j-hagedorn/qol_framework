@@ -9,6 +9,7 @@
 *.rdb
 *\_packages
 *.png
+*.jpg
 *.bib
 
 # Document types not published to web
