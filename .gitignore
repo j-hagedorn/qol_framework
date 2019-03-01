@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+*.RData
+*.Rproj
+.Ruserdata
+
+# Supporting style files
+*.rdx
+*.rdb
+*\_packages
+*.png
+*.bib
+
+# Document types not published to web
+*.docx
+*.pdf
