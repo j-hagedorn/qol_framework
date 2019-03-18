@@ -145,6 +145,12 @@ When are measures taken?
 
 What types of measures relate to what parts of the PCP process?
 
+## What data is missing?
+
+Self-determination^[See a recent review by [Emanuela, Z. (2019)](https://openaccesspub.org/jcap/article/988#ridm1842855756).]
+
+---
+
 # Impact on Current System
 
 The framework outlined here attempts to align with and fulfill the promise of current definitions of person-centered planning, as well as with existing and evolving standards in the fields of behavioral health and developmental disability services.  Far from contradicting these standards, it attempts to provide a broader, person-centered context for the development of the system as a whole.
