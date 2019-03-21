@@ -110,7 +110,7 @@ This broader scope is already recognized within the state's policy, which indica
 
 In order to determine the success of an individual plan of support, it is necessary to have a strategy to measure improvement in the person's desired areas of focus.  These measurement-based approaches have been gaining traction in their use across populations.^[[Shalock, et al. (2018)](https://aaidd.org/docs/default-source/sis-docs/changes-in-the-field.pdf?sfvrsn=cd8b3021_0) note "an increased emphasis on... conducting outcome evaluation... to assess the degree to which personal goals, positive changes, or benefits have been achieved" in IDD planning.]
 
-```{r echo=FALSE, fig.margin = T, fig.cap="PDCA cycle", fig.fullwidth=F}
+```{r echo=FALSE, fig.margin = T, fig.cap="", fig.fullwidth=F}
 knitr::include_graphics('img/pdca.JPG',dpi = 40)
 ```
 
@@ -177,6 +177,27 @@ So, speaking *very* broadly, if our cube has data elements/measures at each inte
 The next sections define each of the dimensions listed above, and how they relate to one another, in greater detail.  Please note that this paper does not develop or identify specific measures, except as illustrations of how individual data elements or metrics *might* fit into the overall framework.
 
 ## Steps {#steps}
+
+### What are the steps?
+
+### QoL Assessment
+
+```{r}
+tribble(
+  ~Dimension,                ~`SIS Item`,           ~`CAFAS Item`,
+  #--|--|----
+  "Personal development",    "",                    "",
+  "Self-determination",      "",                    "",
+  "Interpersonal relations", "",                    "",
+  "Social inclusion",        "",                    "",
+  "Rights",                  "",                    "",
+  "Emotional well-being",    "",                    "",
+  "Physical well-being",     "",                    "",
+  "Material well-being",     "",                    ""
+) %>%
+knitr::kable(caption = 'Need Assessment and QoL Dimensions')
+```
+
 
 
 ### PCP-based Episodes
