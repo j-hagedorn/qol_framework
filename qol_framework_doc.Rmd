@@ -37,7 +37,7 @@ People have been asking themselves what it means to live a good life for thousan
 If we are going to try to define quality of life, it is important that our definition gets a few things right:^[These considerations are drawn from [Cummins, R. (2005). Moving from the quality of life concept to a theory. JIDR, 49(10), 699-706](https://www.ncbi.nlm.nih.gov/pubmed/16162114).]
 
 1. *Multiple dimensions*.  A good life can only be described using multiple dimensions. These are influenced by personal factors, environmental factors, and the interaction between those factors.
-2. *Broad enough for everyone*.  We should want to apply the definition to our own lives, and so should others who are different than us.  The basic characteristics of a good life are the same for all people, regardless of culture, gender, disability, etc. 
+2. *Broad enough for everyone*.  We should each want to apply the definition to our own lives.  The basic characteristics of a good life are the same for all people, regardless of culture, gender, disability, etc. 
 3. *Both subjective and objective*. Different people have different priorities.  While we can point to objective facts related to QoL, it necessarily includes the point-of-view of the person who is living their life from day to day.  Note that each dimension of the QoL model may have objectively and subjectively defined indicators.
 
 Taken together, these criteria seek to balance the abstract with the specific to arrive at a definition which is well-rounded and understandable.
@@ -68,7 +68,8 @@ knitr::kable(caption = 'QoL Dimensions')
 
 Please note that the framework listed above is one of many potential models, each of which contains many of the same basic dimensions, and many were developed with populations having specific conditions.  Some other broad-based models for review include:
 
-- The [World Health Organization Quality of Life (WHOQOL)](https://apps.who.int/iris/bitstream/handle/10665/77932/WHO_HIS_HSI_Rev.2012.03_eng.pdf?sequence=1&isAllowed=y) domains
+- The [World Health Organization Quality of Life (WHOQOL)](https://apps.who.int/iris/bitstream/handle/10665/77932/WHO_HIS_HSI_Rev.2012.03_eng.pdf?sequence=1&isAllowed=y) domains.
+- [Healthy People 2020 (2015). Foundation Health Measure Report: Health-Related QoL and Well-Being.](https://www.healthypeople.gov/sites/default/files/HRQoLWBFullReport.pdf)
 
 # Benefits of a QoL Perspective
 
@@ -86,9 +87,9 @@ A QoL approach has the following benefits over the approaches mentioned above:
 
 **Strengths-based**:  A QoL approach asks people what they want their lives to be and encourages them to work toward that vision.  Rather than focusing on needs or deficits, it aspires to use a person's strengths to improve his or her life.^[See the MDHHS PCP Policy value that "The PCP approach identifies the person’s strengths, goals, choices... and desired outcomes." (p. 4)]
 
-**Inclusive**: Instruments and measures from each of the other areas can be included as a part of the QoL framework, since it is broad enough to include each of these areas, and they each contribute to it.  For instance, if a person experiences an alleviation of their depressive symptoms using the PHQ-9, this would be seen as contributing toward the individual's QoL in the area of 'Emotional Well-being'.
+**Inclusive**: Instruments and measures from each of the other areas can be used as a part of the QoL framework, since it is broad enough to include each of these areas, and they each contribute to it.  For instance, if a person experiences an alleviation of their depressive symptoms using the PHQ-9, this would be seen as contributing toward the individual's QoL in the area of 'Emotional Well-being'.
 
-**Contextual**: An approach which focuses on only a portion of an individual's life, such as mobility or anxiety symptoms, is likely to miss out on the bigger picture.  It may also inadvertently create siloes among the individuals supporting the person.  This broader contextual focus is aligned with our evolving understanding of several areas, each of which stresses the critical relationship between person and environment, and underscore the importance of a whole-person approach:
+**Contextual**: An approach which focuses on only a portion of an individual's life, such as mobility or anxiety symptoms, is likely to miss out on the bigger picture.  It may also inadvertently create siloes among the individuals supporting the person.  This broader contextual focus is aligned with our evolving understanding of several areas, each of which stresses the critical relationship between each of us and our communities and surroundings:
 
 - *Social Determinants of Health* (SDoH): A vast and growing body of [research](https://www.cdc.gov/socialdeterminants/research/index.htm) indicates that the places and conditions in which we live are intrinsically tied to the quality of our lives and the likelihood of achieving positive outcomes from the supports and services we receive. 
 - *Trauma-Informed Care*: More and more models for service provision, informed by research and by the lived experience of trauma survivors, are founded on the recognition that adverse events in our relationships and in our lived environment can have a profound and lifelong impact on our lives.^[For a recent review of these models, see: [Purtle, J. (2018). Trauma, Violence, & Abuse](https://www.ncbi.nlm.nih.gov/pubmed/30079827).]
@@ -133,6 +134,8 @@ knitr::kable(caption = 'Alignment of PDCA and PCP')
 
 ```
 
+
+
 # Framework for Measurement
 
 ## Data Used
@@ -170,3 +173,15 @@ The framework outlined here attempts to align with and fulfill the promise of cu
 # What next?
 
 ## What are competing values and priorities?
+
+- Increasing compliance requirements from
+
+- Funding models not aligned with outcomes
+
+- Concerns about limited resources
+
+- Concern that positive outcomes are accompanied by decreased supports
+
+- Financial efficiency vs. outcomes: right now it appears we strive to spend the least to achieve the minimal outcomes; is there value for the system to invest more for even better outcomes/QoL results? Would more intensive interventions earlier on result in more independence later on and subsequently justify the additional upfront costs?
+
+- Serving vs. actually helping: Are you simply doing the things (a la process measures), or do you only do things that you believe in that produce results (outcomes)?
