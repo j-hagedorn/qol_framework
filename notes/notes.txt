@@ -21,3 +21,21 @@ MBC is billable
 Purchasing decisions; smart provider networks
 
 kennedy forum core outcomes mbc measures 
+
+---
+This definition allows the system to bring a broad set of supports and services to reach its goal.  After all, our lives can be improved through medical cures, effective treatments, meaningful participation in our communities, 
+
+# Policy Level
+There has been increasing recognition that financial indicators are not sufficient to depict the success of countries and communities.
+
+[Diener, E. & Seligman, M. (2004). *Beyond money: Toward an economy of well-being.* Psychological science in the public interest, 5(1), 1-31.](https://www.brookings.edu/wp-content/uploads/2012/04/20040603b.pdf)
+
+# Metric Dev
+
+Note that we are not proposing specific metrics here, merely identifying the existing data which could be used (in various ways) to identify current practices and outcomes.
+
+[Manheim, D. (2018). Building Less Flawed Metrics. MPRA Paper No. 90649](https://mpra.ub.uni-muenchen.de/90649/1/MPRA_paper_90649.pdf)
+
+# Person-focused
+
+The language of 'person-centered' has sometimes prompted people to imagine individuals as mere 'consumers', recipients of help rather than active and valuable members of their communities.  If we limit our view of individual choice to what services can be purchased, we limit our view of people (including ourselves) to that of 'consumers.'  A personal focus seeks to find not only who and what is important to the person, but who and what *find the person important*. What does this person offer that no one else can?
