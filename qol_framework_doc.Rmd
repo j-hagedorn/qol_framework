@@ -1,6 +1,6 @@
 ---
 title: "Flourishing"
-subtitle: "A measurement framework to improve lives"
+subtitle: "A framework to improve lives"
 date: "`r Sys.Date()`"
 output: 
   tint::tintHtml
@@ -188,20 +188,22 @@ The next sections define each of the dimensions listed above, and how they relat
 
 ### QoL Assessment
 
-```{r}
+The table below identifies example variables from required assessments which relate to the QoL domains outlined above.  While this is not an exhaustive mapping, it shows how the assessment of personal needs (*from the "Plan" step of PDCA*) relate to quality of life domains across multiple populations.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
 tribble(
-  ~Dimension,                ~`SIS Item`,           ~`CAFAS Item`,
+  ~Dimension,                ~`SIS Item`, ~`CAFAS Item`, ~`LOCUS Item`, ~`GAIN Item`,
   #--|--|----
-  "Personal development",    "",                    "",
-  "Self-determination",      "",                    "",
-  "Interpersonal relations", "",                    "",
-  "Social inclusion",        "",                    "",
-  "Rights",                  "",                    "",
-  "Emotional well-being",    "",                    "",
-  "Physical well-being",     "",                    "",
-  "Material well-being",     "",                    ""
+  "Personal development",    "",          "",            "",            "",
+  "Self-determination",      "",          "",            "",            "",
+  "Interpersonal relations", "",          "",            "",            "",
+  "Social inclusion",        "",          "",            "",            "",
+  "Rights",                  "",          "",            "",            "",
+  "Emotional well-being",    "",          "",            "",            "",
+  "Physical well-being",     "",          "",            "",            "",
+  "Material well-being",     "",          "",            "",            ""
 ) %>%
-knitr::kable(caption = 'Need Assessment and QoL Dimensions')
+knitr::kable(caption = 'Sample: Need Assessment and QoL Dimensions')
 ```
 
 
