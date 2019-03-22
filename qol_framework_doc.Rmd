@@ -1,6 +1,6 @@
 ---
 title: "Flourishing"
-subtitle: "A framework to improve lives"
+subtitle: "A measurement framework to improve lives"
 date: "`r Sys.Date()`"
 output: 
   tint::tintHtml
@@ -154,7 +154,13 @@ When supports and services are viewed as a way to reach a goal, rather than a go
 knitr::include_graphics('img/QoL Framework Scope.jpg',dpi = 40)
 ```
 
-A framework which seeks to be as broad as the one we are proposing runs the risk of becoming overwhelming complex and unwieldy.  So, before diving into any details, we want to begin by sketching out a simple way to think about the scope of the measurement framework using three-dimensions (*[depth](#zoom), [breadth](#pop), and [height](#steps)*)^[Those not geometrically inclined might want to think of "*the depth and breadth and height*" from [this sonnet](https://www.poetryfoundation.org/poems/43742/sonnets-from-the-portuguese-43-how-do-i-love-thee-let-me-count-the-ways)] defined below:
+A conceptual framework as comprehensive as the one we are proposing runs the risk of becoming overwhelming complex and unwieldy to implement.  So, before diving into any details, we want to begin by sketching out a simple way to think about the scope of the framework required to systematically measure person-centered planning and its impact of quality of life.  Having a definition of scope can help us answer questions such as: 
+
+- What types of data are included, and what types of measures?  
+- How will we know when the framework is fully implemented?  
+- Does this fit with other work that we are doing?
+
+We can define the scope of the framework using three-dimensions (*[depth](#zoom), [breadth](#pop), and [height](#steps)*)^[Those not geometrically inclined might want to think of "*the depth and breadth and height*" from [this sonnet](https://www.poetryfoundation.org/poems/43742/sonnets-from-the-portuguese-43-how-do-i-love-thee-let-me-count-the-ways)] as defined below:
 
 **Depth** (a.k.a. *Zoom*): Does the framework allow for understanding at various levels of 'resolution', from the most immediate (i.e. *the individual person*) to the aggregate (i.e. *the population*) and other levels inbetween (e.g. *the organization, team, etc.*)?
 
@@ -166,15 +172,15 @@ A framework which seeks to be as broad as the one we are proposing runs the risk
 knitr::include_graphics('img/QoL Framework Cube.jpg',dpi = 40)
 ```
 
-If we think about the framework as a cube made of these three dimensions, then developing the measurement framework can begin by making certain that data exists:
+If we think about the framework as a cube made of these three dimensions, then developing the measurement framework can begin by making certain that data is collected:
 
-- from each step of the person-centered PDCA process (*height*) 
+- at each step of the person-centered PDCA process (*height*) 
 - for people across all populations (*breadth*)
 - which can be aggregated at various levels of the system (*depth*) 
 
 So, speaking *very* broadly, if our cube has data elements/measures at each intersection of the three dimensions, then it allows for at least a basic understanding of people's needs, planning, and services as these contribute to improved lives.  In reality, there will always be additional data that can be collected and novel ways of combining that data, just as there continue to be additional books and songs written describing the human experience. 
 
-The next sections define each of the dimensions listed above, and how they relate to one another, in greater detail.  Please note that this paper does not develop or identify specific measures, except as illustrations of how individual data elements or metrics *might* fit into the overall framework.
+The next sections define each of the dimensions listed above, and how they relate to one another, in greater detail.  Based on these details, it will be possible to begin a practical gap analysis to assess how closely the system's current data assets match the scope of the framework.  Please note that this paper does not develop or identify specific measures, except as illustrations of how individual data elements or metrics *might* fit into the overall framework.
 
 ## Steps {#steps}
 
@@ -197,7 +203,6 @@ tribble(
 ) %>%
 knitr::kable(caption = 'Need Assessment and QoL Dimensions')
 ```
-
 
 
 ### PCP-based Episodes
@@ -245,6 +250,10 @@ The framework outlined here attempts to align with and fulfill the promise of cu
 *Diagnostic Practice*: The most recent diagnostic manual (DSM-5) includes [assessment measures](https://www.psychiatry.org/psychiatrists/practice/dsm/educational-resources/assessment-measures) which were "developed to be administered at the initial patient interview and to monitor treatment progress." 
 
 # What next?
+
+## Do we need to have complete data before doing anything?
+
+Thankfully, no.  In fact, data completeness and quality typically improve through use, so it is unrealistic to expect a "perfect" dataset prior to implementation of this framework.
 
 ## What are competing values and priorities?
 
