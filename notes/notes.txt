@@ -72,6 +72,8 @@ Note that we are not proposing specific metrics here, merely identifying the exi
 
 [Manheim, D. (2018). Building Less Flawed Metrics. MPRA Paper No. 90649](https://mpra.ub.uni-muenchen.de/90649/1/MPRA_paper_90649.pdf)
 
+https://hackernoon.com/metrics-game-framework-5e3dce1be8ac
+
 # Person-focused
 
 The language of 'person-centered' has sometimes prompted people to imagine individuals as mere 'consumers', recipients of help rather than active and valuable members of their communities.  If we limit our view of individual choice to what services can be purchased, we limit our view of people (including ourselves) to that of 'consumers.'  A personal focus seeks to find not only who and what is important to the person, but who and what *find the person important*. What does this person offer that no one else can?
